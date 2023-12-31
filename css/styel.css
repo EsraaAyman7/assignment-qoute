@@ -1,0 +1,25 @@
+div{
+  text-align: center;
+}
+h1 {
+    font-size: 80px;
+    font-weight: 900;
+    font-family:Impact;
+    color: #000;
+}
+ p{
+   font-family:  Times New Roman;
+   font-size: 35px;
+   color: #000;
+}
+ button{
+    background-color: blue;
+    width:250px;
+    height: 80px;
+    color:white;
+    font-size: 13.3px;
+}
+ button:hover{
+    background-color: #008000;
+   
+ }
